@@ -30,7 +30,7 @@
 
 ##
 <p align="left">
-  💌 Contato: ⤵️
+  📞 Contato: ⤵️
 </p>
 
  <a href="https://www.youtube.com/marlonribeiro" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
