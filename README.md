@@ -3,8 +3,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Graduado em TADS e cursando <strong>MBA em eng. de software</strong>.<br>
-  Estudante, especializando-se desenvolvimento WEB.
+  Graduado em <strong>TADS</strong>, cursando <strong>MBA em Eng. de Software</strong>.<br>
+  Profissional de TI, especializando-se desenvolvimento WEB.
 </p>
 
 ## 🚀 Minhas Skills
